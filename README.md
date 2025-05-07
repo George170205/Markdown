@@ -37,7 +37,7 @@ Antes de instalar Python, es importante considerar que existen dos ramas princip
 
    Ve a [python.org](https://www.python.org/downloads/)
 
-   <img src=img2.jpg width=600>
+   <img src=img2.png width=600>
 
 2. **Ejecuta el instalador**
    
