@@ -43,7 +43,7 @@ Antes de instalar Python, es importante considerar que existen dos ramas princip
    
    Haz doble clic en el archivo descargado. Es posible que necesites dar permiso al Control de Cuentas de Usuario.
 
-   <img src=img5.jpg width=500>
+   <img src=img3.png width=500>
 
 3. **Configura la instalación**
    
@@ -58,7 +58,7 @@ Antes de instalar Python, es importante considerar que existen dos ramas princip
    
    Abre el Símbolo del sistema (CMD) o PowerShell y escribe `python --version`. Deberías ver la versión instalada.
 
-   <img src=img3.jpg width=500>
+   <img src=img4.png width=500>
 
 ---
 
